@@ -1,6 +1,3 @@
-## combined_subdomains
-
-This wordlist is a combination of the following wordlists with a few subdomains added:
-- bitquark-subdomains-top100000.txt
-- shubs-subdomains.txt
-- subdomains-top1million-110000.txt
+version https://git-lfs.github.com/spec/v1
+oid sha256:299df98802153e58bb699c12946398ece3a2552d24e0bcbc1b6fe118b7731790
+size 206

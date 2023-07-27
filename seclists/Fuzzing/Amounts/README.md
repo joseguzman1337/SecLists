@@ -1,9 +1,3 @@
-# Amounts
-
-Pre-generated wordlists based on [Common Security Issues in Financially-Oriented Web Applications](https://research.nccgroup.com/wp-content/uploads/2020/07/common_security_issues_in_financially-orientated_web.pdf) PDF.
-
-Created to fuzz amounts, quantities, or any other numerical values.
-
-Bypass minimum and maximum restrictions, cause unintended behavior and errors, etc.
-
-Tool to create such wordlists can be found at [ivan-sincek/amounts](https://github.com/ivan-sincek/amounts). Feel free to create and add more wordlists on your own. Works with integer and float numerical values.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb964c5e1d97d3a5cdb8d8af2c0e6ced4eaa8ef42c9c43fbff01e120989d9ea0
+size 597

@@ -1,1 +1,3 @@
-The URLs directory will hold numerous lists of URLs for common systems that one may attack, e.g. WordPress, Drupal, etc. These lists can be passed through an intercepting proxy in order to populate a site tree with whitebox-like knowledge.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc57495e3b32bad61804033e02376b9283e696db8af233c8c61bfa89e96932fe
+size 240
