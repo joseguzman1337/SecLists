@@ -1,5 +1,5 @@
 # For Debian, Ubuntu, Kali or Parrot
-```
+```ShellSession
 if [ ! -d "/usr/share/wordlists" ]; then sudo mkdir /usr/share/wordlists; fi && \
 apt update -y && \
 apt install git -y && \
@@ -32,6 +32,6 @@ bash <(wget -qO- https://git.io/vAtmB)
 ```
 
 # For macOS
-```
+```ShellSession
 cd && mkdir ~/wordlists && sudo git clone https://github.com/4k4xs4pH1r3/SecLists.git ~/wordlists && mkdir ~/SecLists && sudo git clone https://github.com/danielmiessler/SecLists.git ~/SecLists && brew install neofetch && neofetch
 ```
