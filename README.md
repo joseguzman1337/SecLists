@@ -37,4 +37,6 @@ cd && mkdir ~/wordlists && sudo git clone https://github.com/4k4xs4pH1r3/SecList
 ```
 
 # For ArchLinux
+```ShellSession
 git clone https://github.com/4k4xs4pH1r3/SecLists.git /usr/share/wordlists && git clone https://github.com/danielmiessler/SecLists.git /usr/share/SecLists
+```
