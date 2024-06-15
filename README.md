@@ -35,3 +35,6 @@ bash <(wget -qO- https://git.io/vAtmB)
 ```ShellSession
 cd && mkdir ~/wordlists && sudo git clone https://github.com/4k4xs4pH1r3/SecLists.git ~/wordlists && mkdir ~/SecLists && sudo git clone https://github.com/danielmiessler/SecLists.git ~/SecLists && brew install neofetch && neofetch
 ```
+
+# For ArchLinux
+git clone https://github.com/4k4xs4pH1r3/SecLists.git /usr/share/wordlists && git clone https://github.com/danielmiessler/SecLists.git /usr/share/SecLists
